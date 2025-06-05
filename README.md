@@ -31,13 +31,14 @@ This project uses a Convolutional Neural Network (CNN) to detect whether a perso
 
 2. **Create and Activate Virtual Environment** (Optional but Recommended)
 
-
+```bash
 python -m venv venv
 
 # On Windows:
 venv\Scripts\activate
 # On macOS/Linux:
 source venv/bin/activate
+```
 
 3. **Install Dependencies**
 ```b   
